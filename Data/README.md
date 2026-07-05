@@ -1,0 +1,1 @@
+This project is based on anonymous survey responses collected for academic research. The raw dataset is not publicly available in order to protect participant confidentiality and comply with research ethics requirements. The analyses, results and thesis are shared solely for educational and portfolio purposes.

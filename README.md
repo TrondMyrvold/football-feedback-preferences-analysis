@@ -70,7 +70,7 @@ An Exploratory Factor Analysis (Principal Component Analysis with Varimax rotati
 
 The six factors explained approximately **67.5%** of the total variance.
 
-*(Insert figure of the factor analysis table if desired.)*
+![factor structure](Images/factor_structure.png)
 
 ---
 
@@ -90,6 +90,8 @@ Repeated Measures ANOVA demonstrated a significant overall difference between fe
 
 The results indicate a large effect size, suggesting that coaching feedback style strongly influences athlete preferences.
 
+![Repeated Measures](Images/repeated_measures_anova.png)
+
 ---
 
 # Visualizations
@@ -101,7 +103,16 @@ The project includes visualizations illustrating the findings, including:
 - Factor structure
 - Statistical comparison of feedback categories
 
-*(Insert screenshots here.)*
+# Box Plot Chart
+The boxplots illustrate the distribution of player preferences across the six coaching feedback dimensions. Positive and encouraging feedback received the highest ratings with relatively low variation between participants, indicating broad agreement among players. Negative feedback and the absence of feedback received considerably lower ratings and displayed greater variation, suggesting that these coaching behaviours are generally less preferred. The visualizations provide a clear overview of differences in both median preference scores and response variability across feedback categories.
+
+![Box Plot Chart](Images/boxplot_chart.png)
+
+# Bar Chart
+The bar chart presents the average preference score for each coaching feedback dimension.
+Positive and encouraging feedback achieved the highest mean score, followed closely by constructive and positive constructive feedback. Negative feedback, along with ignoring player performance, received substantially lower ratings. The results suggest that players strongly prefer supportive and competence-enhancing coaching behaviours over critical or absent feedback.
+
+![Bar Chart](Images/bar_chart.png)
 
 ---
 
